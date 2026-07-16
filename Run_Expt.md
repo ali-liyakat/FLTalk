@@ -13,6 +13,9 @@
         Run Federated Clients (federated_client.py)
 
 
+        The Live Logs and Round Wise Metrics will be displayed in GUI and Terminal.
+
+
 # How to run the FedDeepSMOTE Experiment.
 
 --> 1:- Running Local DeepSMOTE Experiment:
